@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>lens</id>
+    <version>3.3.1</version>
+	<packageSourceUrl>https://github.com/virtualex-itv/choco-lens/tree/master/</packageSourceUrl>
+    <owners>virtualex</owners>
+    <title>Lens</title>
+    <authors>Lakend Labs</authors>
+    <projectUrl>https://k8slens.dev/</projectUrl>
+    <iconUrl>https://rawcdn.githack.com/virtualex-itv/choco-lens/1089267baf11557417e07d340afb9ef232339d88/_icon/k8slens.png</iconUrl>
+    <copyright>Copyright © 2020 Lakend Labs - All rights reserved.</copyright>
+	<licenseUrl>https://github.com/lensapp/lens/blob/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>kubernetes k8s ide lens</tags>
+    <summary>The Kubernetes IDE</summary>
+    <description>Lens is the only IDE you’ll ever need to take control of your Kubernetes clusters. It is a standalone application for MacOS, Windows and Linux operating systems. Lens is open source and free.
+	
+	Please see the [**README**](https://github.com/virtualex-itv/choco-lens) for chocolatey-test-environment installation.</description>
+    <releaseNotes>https://github.com/lensapp/lens/releases/tag/v3.3.1</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
