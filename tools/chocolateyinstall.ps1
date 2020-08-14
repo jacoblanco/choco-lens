@@ -2,9 +2,9 @@ $ErrorActionPreference	= 'Stop';
 $toolsDir	= "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $packageName	= 'lens'
 $fileType	= 'exe'
-$url	= 'https://github.com/lensapp/lens/releases/download/v3.5.2/Lens-Setup-3.5.2.exe'
+$url	= 'https://github.com/lensapp/lens/releases/download/v3.5.3/Lens-Setup-3.5.3.exe'
 $softwareName	= 'Lens*'
-$checksum	= 'CF1C203759418FE322F751B8CE35C9672C068277A4373AA82C995019AFE5B905'
+$checksum	= 'E50EBCD24A20B4248870C26938540601F0C3EF3F51E331586F72A3F6BCFDF6EB'
 $checksumType	= 'sha256'
 $validExitCodes		= @(0, 3010, 1605, 1614, 1641)
 
