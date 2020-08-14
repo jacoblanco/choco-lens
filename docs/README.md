@@ -11,4 +11,4 @@
 Chocolatey package for lens
 
 ---
-![ChocoTestEnvInstall](https://rawcdn.githack.com/virtualex-itv/choco-lens/5f6e23514df4905f5dfcf40e2515f67c33e6989d/_img/choco-lens-test.png)
+![ChocoTestEnvInstall](https://rawcdn.githack.com/virtualex-itv/choco-lens/6fa3fea84f459978f9414e22223b5fe29774b828/_img/choco-lens-test.png)
