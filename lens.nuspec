@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>lens</id>
-    <version>3.5.2</version>
+    <version>3.5.3</version>
 	<packageSourceUrl>https://github.com/virtualex-itv/choco-lens/tree/master/</packageSourceUrl>
     <owners>virtualex</owners>
     <title>Lens</title>
@@ -18,7 +18,7 @@
     <description>Lens is the only IDE you’ll ever need to take control of your Kubernetes clusters. It is a standalone application for MacOS, Windows and Linux operating systems. Lens is open source and free.
 	
 	Please see the [**README**](https://github.com/virtualex-itv/choco-lens) for chocolatey-test-environment installation.</description>
-    <releaseNotes>https://github.com/lensapp/lens/releases/tag/v3.5.2</releaseNotes>
+    <releaseNotes>https://github.com/lensapp/lens/releases/tag/v3.5.3</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
