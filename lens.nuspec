@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>lens</id>
-    <version>3.6.0</version>
+    <version>3.6.3</version>
 	<packageSourceUrl>https://github.com/virtualex-itv/choco-lens/tree/master/</packageSourceUrl>
     <owners>virtualex</owners>
     <title>Lens</title>
